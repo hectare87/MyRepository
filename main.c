@@ -112,6 +112,7 @@ void Sw0_Pushed(void){
 //            p_state = PRINT_FAST;
 //            break;
 //    }
+
 //    p_state_changed = true;
 //    for(int i=0; i<20; i++){
 //        printf("sw0 push[%d]\r\n",i);
